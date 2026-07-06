@@ -82,6 +82,7 @@ Node.js (and browsers) ships with the [server package](https://github.com/tyolab
 see also [Python](https://github.com/tyolab/tyo-mq-client-python),
 [Go](https://github.com/tyolab/tyo-mq-client-go),
 [C/C++](https://github.com/tyolab/tyo-mq-client-cpp),
+[Ruby](https://github.com/tyolab/tyo-mq-client-ruby),
 [Java](https://github.com/tyolab/tyo-mq-client-java), and
 [C#](https://github.com/tyolab/tyo-mq-client-csharp).
 

@@ -86,6 +86,12 @@ see also [Python](https://github.com/tyolab/tyo-mq-client-python),
 [Java](https://github.com/tyolab/tyo-mq-client-java), and
 [C#](https://github.com/tyolab/tyo-mq-client-csharp).
 
+All clients are exercised together by the cross-language
+[conformance suite](https://github.com/tyolab/tyo-mq-conformance), which runs
+the same pub/sub, durable-delivery, topic, group, and auth scenarios against
+every client (and every producer/consumer language pair) and publishes the
+resulting matrix.
+
 ## License
 
 Apache-2.0. Built by [TYO Lab](https://tyo.com.au).
